@@ -3,7 +3,7 @@ def add(a, b):
 
 
 def greet(name):
-    return "Welcome, " + name + "! (from main branch)"
+    return "Welcome, " + name + "! Hi from both branches!"
 
 
 if __name__ == "__main__":
